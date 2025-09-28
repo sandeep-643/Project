@@ -1,5 +1,4 @@
-# Project
-EcoLight Maestro-Time-Intensity Adaptive Street Light Automation
+# EcoLight Maestro-Time-Intensity Adaptive Street Light Automation
 his project implements a real-time streetlight control system using an RTC, LDR, LCD, keypad, LEDs, and external interrupt. The system displays the current time, date, and day on an LCD and automatically controls streetlight LEDs based on both time and ambient light intensity.
 
 
