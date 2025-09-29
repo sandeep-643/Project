@@ -1,4 +1,4 @@
-🌍 EcoLight Maestro – Time & Intensity Adaptive Street Light Automation
+<h1>🌍 EcoLight Maestro – Time & Intensity Adaptive Street Light Automation</h1>
 📖 Introduction
 
 EcoLight Maestro is a smart streetlight automation system that controls streetlight LEDs in real-time using a Real-Time Clock (RTC), Light Dependent Resistor (LDR), LCD display, and keypad input.
@@ -6,7 +6,7 @@ It saves energy by turning on lights only when needed — based on both time (18
 
 This project combines embedded systems, sensors, and automation for practical applications in smart cities and energy-efficient lighting.
 
-📑 Table of Contents
+<h2>📑 Table of Contents</h2>
 
 Features
 
@@ -28,7 +28,7 @@ Contributors
 
 License
 
-✨ Features
+<h2>✨ Features</h2>h2
 
 Real-time date, time, and day display on LCD
 
@@ -44,7 +44,7 @@ Low-power and energy-efficient design
 
 User-friendly hardware and software interface
 
-🔄 System Workflow
+<h2>🔄 System Workflow</h2>
 Power ON → Initialize peripherals
 ↓
 Main Loop → Display Date/Time
@@ -79,7 +79,7 @@ Push button (external interrupt trigger)
 
 Power supply & jumper wires
 
-💻 Software Requirements
+<h2>💻 Software Requirements</h2>
 
 Arduino IDE / AVR Studio / MPLAB (depending on MCU)
 
@@ -133,11 +133,11 @@ LEDs not switching → Adjust LDR threshold or check ADC wiring.
 
 Interrupt not working → Ensure button is connected to correct INT pin.
 
-👥 Contributors
+<h2>👥 Contributors</h2>
 
 Sandeep
  – Developer & Maintainer
 
-📜 License
+<h2>📜 License</h2>
 
 This project is licensed under the MIT License – you are free to use, modify, and distribute with attribution.
