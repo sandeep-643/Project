@@ -141,8 +141,9 @@ Sandeep
 <h2>📜 License</h2>
 
 This project is licensed under the MIT License – you are free to use, modify, and distribute with attribution.
-<img width="1122" height="752" alt="image" src="https://github.com/user-attachments/assets/f4f46ecd-81fd-42fa-8fe5-6c8a785807a8" />
-![MIniProject](https://github.com/user-attachments/assets/5abe3551-29f7-4712-9754-25a216ac9fe9)
+<img width="500"  alt="image" src="https://github.com/user-attachments/assets/f4f46ecd-81fd-42fa-8fe5-6c8a785807a8" />
+<img width="500"  alt="image" src="https://github.com/user-attachments/assets/5abe3551-29f7-4712-9754-25a216ac9fe9" />
+
 
 
 
