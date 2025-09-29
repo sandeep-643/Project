@@ -1,4 +1,5 @@
-🌍 EcoLight Maestro – Time & Intensity Adaptive Street Light Automation
+#🌍 EcoLight Maestro – Time & Intensity Adaptive Street Light Automation
+
 📖 Introduction
 
 EcoLight Maestro is a smart streetlight automation system that controls streetlight LEDs in real-time using a Real-Time Clock (RTC), Light Dependent Resistor (LDR), LCD display, and keypad input.
